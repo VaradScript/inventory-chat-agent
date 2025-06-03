@@ -47,5 +47,4 @@ It allows users to **interact via chat** and **perform real-time inventory tasks
 
 ---
 
-## 📂 Project Structure
-
+***
