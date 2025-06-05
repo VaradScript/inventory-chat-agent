@@ -41,7 +41,7 @@ It allows users to **interact via chat** and **perform real-time inventory tasks
 
 5. **🔎 Airtable Tool #1 (Search)**
    - Allows the agent to retrieve inventory information based on product name, stock level, etc.
-
+***
 6. **✍️ Airtable Tool #2 (Update)**
    - Lets the agent update inventory items, such as adjusting stock counts or product details
 
